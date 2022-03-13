@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductCampaignOrder.Infrastructure\ProductCampaignOrder.Infrastructure.csproj" />
+    <ProjectReference Include="..\ProductCampaignOrder.Model\ProductCampaignOrder.Model.csproj" />
+  </ItemGroup>
+
+</Project>
